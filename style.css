@@ -1,0 +1,87 @@
+*{
+    padding: 0;
+    margin: 0;  
+}
+body{
+    background-color: #f0f2f5;
+    font-family: 'Roboto','sans-serif';
+
+}
+.container{
+    position: absolute;
+    left: 14%;
+    top: 30%;
+    font-size: 25px;
+}
+.container h1{
+    color: #2c83f2;
+}
+
+header{
+width: 320px;
+height: 350;
+position: absolute;
+left: 57%;
+ top: 20%;
+ background-color: #f0f2f5;
+}
+.box input{
+    width: 75%;
+    margin: 10px;
+    padding: 13px 18px;
+    margin-top: 18px;
+    margin-left: 21px;
+}
+.corp{
+    background-color: #fefefe;
+    border-radius: 2%;
+    
+    
+   
+    
+}
+
+.login-link{
+    width: 81%;
+    text-align: center;
+    background-color: #2c83f2;
+    margin-top: 10px;
+    margin-left: 23px;
+    padding: 11px;
+    border-radius: 7px;
+}
+.Forgottonpassword-link{
+    text-align: center;
+    margin-top: 12px;
+
+}
+.new-account-link{
+    text-align: center;
+    margin-top: 40%;
+    width: 50%;
+    margin: 75px;
+    background-color: #36A420;
+    padding: 10px;
+    border-radius: 7%;
+  
+}
+.login-link a{
+    text-decoration: none;
+    color:#fff;
+    font-size: 20px;
+}
+.Forgottonpassword-link a{
+text-decoration: none;
+color: #2c83f2;
+font-size: 15px;
+}
+.new-account-link a{
+    text-decoration: none;
+    color:#fff;
+    font-size: 20px;
+}
+.h6{
+    text-align: center;
+    margin-top: 0%;
+}
+
